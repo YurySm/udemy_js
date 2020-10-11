@@ -188,5 +188,3 @@ console.log(parseFloat(test));
 // [Running] node "d:\2020\udemy\js\js-2020\js\tempCodeRunnerFile.js"
 // 12        обе возвращают числовой тип данных, до целого
 // 12.2        дробное
-
-
